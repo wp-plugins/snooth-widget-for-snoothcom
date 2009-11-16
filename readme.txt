@@ -1,6 +1,6 @@
 === Snooth Widget for Snooth.com ===
 Contributors: bobby_baboon
-Tags: comments, spam
+Tags: wine, widget, snooth, snooth.com, sidebar
 Requires at least: 2.8
 Tested up to: 2.8.6
 Stable tag: 0.1
